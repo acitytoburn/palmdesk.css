@@ -1,0 +1,60 @@
+/* ISHI'S COLORS & UNICODES */ 
+#alto {
+  --unicode:'\a113';
+  --main: 172, 144, 95;
+  --alt:187, 206, 152;
+  }
+  
+#blaze {
+  --unicode:'\e903';
+  --main: 116,148,170;
+  --alt: 203,160,149;
+  }
+  
+#caspian{
+  --unicode:'\a62';
+  --main: 202,122,106;
+  --alt: 144,47,32;
+  }
+
+#leda {
+  --unicode:'\e900';
+  --main: 215,131,46;
+  --alt: 142,92,49;
+  }
+ 
+ #micah {
+  --unicode:'\a28';
+  --main: 148,73,92;
+  --alt: 192,196,185;
+  }
+  
+   #phoenix {
+  --unicode:'\e901';
+  --main: 72, 187, 120;
+  --alt: 121, 159, 121;
+  }
+  
+   #seamus {
+  --unicode:'\e905';
+  --main: 217, 165, 186;
+  --alt: 122, 32, 72;
+  }
+  
+     #serena {
+  --unicode:'\a128';
+  --main: 122, 32, 72;
+  --alt: 222,184,135;
+  }
+  
+     #xerxes {
+  --unicode:'\e902';
+  --main: 160, 6, 6;
+  --alt: 138, 3, 3;
+  }
+  
+     #zenon {
+  --unicode:'\e904';
+  --main: 135,92,171;
+  --alt: 71,49,81;
+  }
